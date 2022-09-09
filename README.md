@@ -1,2 +1,2 @@
-# TwichNaviFrontEnd
+# TwitchNaviFrontEnd
 Front End of A Personalized Twitch Resources Recommendation Engine
